@@ -1,1 +1,1 @@
-https://CoachSludge.github.io/kodirepo
+https://CoachSludge.github.io/kodirepo/
